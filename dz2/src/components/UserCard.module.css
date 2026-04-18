@@ -1,0 +1,9 @@
+.header {
+    font-size: 23px;
+}
+.card {
+    width: 300px;
+     padding: 20px;
+    border-radius: 15px;
+    border: 1px solid gray;
+}
