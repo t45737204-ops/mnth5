@@ -1,0 +1,54 @@
+.card {
+  margin-top: 12px;
+  padding: 14px;
+  border-radius: 10px;
+  background: linear-gradient(180deg, #ffffff 0%, #fbfdff 100%);
+  border: 1px solid #e6eef9;
+}
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.city {
+  font-weight: 600;
+  color: #0b1726;
+}
+.icon {
+  font-size: 28px;
+}
+.main {
+  display: flex;
+  gap: 12px;
+  align-items: center;
+  margin-top: 8px;
+}
+.temp {
+  font-size: 22px;
+  color: #0b1726;
+}
+.desc {
+  color: #475569;
+}
+.wind {
+  margin-top: 10px;
+  color: #334155;
+}
+.forecast {
+  margin-top: 10px;
+}
+.forecastTitle {
+  font-size: 13px;
+  color: #475569;
+  margin-bottom: 6px;
+}
+.forecastList {
+  display: flex;
+  gap: 8px;
+}
+.forecastItem {
+  padding: 6px 8px;
+  background: #f1f8ff;
+  border-radius: 6px;
+  font-size: 13px;
+}
